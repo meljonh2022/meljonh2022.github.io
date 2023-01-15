@@ -396,7 +396,10 @@ section#services {
 /*Contact*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: #3e3e48;;
+}
+section#contact {
+    background-color: #3e3e48;
 }
 
 .contact .info i {
@@ -425,10 +428,10 @@ section#services {
 }
 
 .contact .info p {
-  padding: 0 0 0 60px;
-  margin-bottom: 0;
-  font-size: 16px;
-  color: #000000;
+    padding: 0 0 0 60px;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: #f5efef;
 }
 
 .contact .info .email,
